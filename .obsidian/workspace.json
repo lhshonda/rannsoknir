@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b8762031f1827560",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c4d5fd817a02e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a78ae6324edd7b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basin/Scientific Notation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scientific Notation"
+            }
+          },
+          {
+            "id": "ecf60d59a700208a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "applied/nunc coepi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nunc coepi"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db2922ae588b9b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "390cc0b0daa71eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d131cc4201d05152",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7eea21a1c4021dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "687e9111044d7a36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e6404fe13176c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e6178a29e663a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30945f6924ff23ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "applied/nunc coepi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for nunc coepi"
+            }
+          },
+          {
+            "id": "5ae0cc02186e4dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "applied/nunc coepi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from nunc coepi"
+            }
+          },
+          {
+            "id": "bd18ad031510321e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5379b7e282537b95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "applied/nunc coepi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of nunc coepi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d131cc4201d05152",
+  "lastOpenFiles": [
+    "canvas/sic parvis magna.md",
+    "applied/nunc coepi.md",
+    "canvas",
+    "Excalidraw/Drawing 2025-09-07 21.38.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-07 21.36.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-07 21.36.53.excalidraw.md",
+    "basin/Scientific Notation.md",
+    "Excalidraw",
+    "blueprint/tabula rasa.md",
+    "applied",
+    "traceback/Physics.md",
+    "traceback/Number-Expression.md",
+    "basin/base ten.md",
+    "traceback",
+    "Welcome.md",
+    "blueprint",
+    "basin"
+  ]
+}
