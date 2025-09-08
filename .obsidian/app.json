@@ -1,4 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "basin"
+  "newFileFolderPath": "basin",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

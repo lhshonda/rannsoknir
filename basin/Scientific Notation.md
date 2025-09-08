@@ -34,6 +34,6 @@ Write your numbers in scientific notation by visualizing the movement of the dec
 Moving it left increments the number positively. Predictably, moving the decimal to the right increments the exponent negatively.
 
 
-###### sources:
-[[https://en.wikipedia.org/wiki/Scientific_notation]]
+###### sources
+https://en.wikipedia.org/wiki/Scientific_notation
 
