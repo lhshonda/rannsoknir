@@ -12,6 +12,7 @@ $$b^{n} = \underbrace{ b\times b\times\dots \times b\times b }_{\text{n …}}$$
 
 This definition of $b^n$ implies several properties:
 
+
 ##### Multiplication Property 
 Given base $b$ raised to some amount, if said base is multiplied by itself, then this operation would be the same as raising $b$ to the two exponents added together. 
 
