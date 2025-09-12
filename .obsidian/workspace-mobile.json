@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Scientific Notation.md",
+                "file": "basin/中文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scientific Notation"
+              "title": "中文"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "basin/中文.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,32 +158,32 @@
   },
   "active": "6e33735ed262a502",
   "lastOpenFiles": [
-    "basin/Operations in Scientific Notation.md",
+    "basin/Programming Languages.md",
+    "basin/中文.md",
+    "basin/Theory.md",
+    "basin/Exponentiation.md",
+    "basin/Class (Programming).md",
+    "basin/Java.md",
+    "basin/Java Classes.md",
+    "basin/Print Stream (Java Class).md",
     "basin/Scientific Notation.md",
+    "traceback/Physics.md",
+    "basin/Completing the Square.md",
+    "basin/Recursive Algorithm.md",
+    "basin/Operations in Scientific Notation.md",
     "basin/Methods (Programming).md",
     "basin/Algebra.md",
-    "basin/Completing the Square.md",
     "basin/Perfect Square.md",
     "basin/Function Composition.md",
-    "basin/中国.md",
     "basin/Linguistics.md",
     "basin/Etymology.md",
     "basin/English.md",
-    "basin/Programming Languages.md",
-    "basin/Java.md",
     "basin/Function Arguments.md",
     "basin/Object-Oriented Programming.md",
-    "basin/Java Classes.md",
     "basin/Scanner Class (Java).md",
     "basin/JavaScript.md",
     "basin/C-Sharp.md",
     "basin/Mathematical Expression.md",
-    "basin/Function.md",
-    "basin/Class (Programming).md",
-    "basin/Computer Science.md",
-    "basin/String Interpolation.md",
-    "basin/Print Stream (Java Class).md",
-    "basin/System.out.md",
     "almanac/PHYS-103-WS1.1.pdf",
     "basin/Untitled.base",
     "Untitled.canvas",
