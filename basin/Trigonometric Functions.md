@@ -15,11 +15,4 @@ $$
 \theta=\\sin ^{-1}(x)=\\sin\ \theta=x.
 $$
 
-
-
-
-
-
-
-
 Also called circular functions, angle functions or goniometric functions. 

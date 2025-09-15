@@ -12,7 +12,7 @@ $$
 $$
 ###### Instantaneous Velocity
 
-This is what average velocity becomes when a single instant in time is infinitely approached. In order to do so the limit of the instance is approached and solved for.
+This is what average velocity becomes when a single instant in time is infinitely approached. In order to do so the limit of the instance is solved for.
 $$
 v = \lim_{ \Delta t \to 0 } \frac{\Delta s}{\Delta t}=\frac{ds}{dt}
 $$

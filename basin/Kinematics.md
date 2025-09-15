@@ -22,7 +22,6 @@ Vector quantities contain both magnitude and direction.
 	Displacement can be see as distance with direction.
 	Acceleration is a vector quantity as it tells you how fast the velocity is changing.
 
-
 ##### Distance v. Displacement
 
 Displacement could be expressed as $d = x_{f}-x_{o}$ where $f$ is the final position while $o$ is the original.
@@ -109,3 +108,7 @@ $$
 d=\frac{1}{2}(v_{o}+v_{f})t
 $$
 In the case you are solving for distance, then $v_{o}$ and $v_{f}$ would represent beginning and final speed instead.
+
+###### Turning Point
+
+Commonly referred towards as a turning point, this is the instance of time an object might reach a velocity of 0 (near-zero), and begin to gain velocity in the opposite direction.

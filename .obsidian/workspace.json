@@ -13,40 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Velocity.md",
+                "file": "blueprint/Tabula Rasa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velocity"
+              "title": "Tabula Rasa"
             }
           },
           {
-            "id": "d03d193190548013",
+            "id": "569ff4c87488a221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Velocity.md",
+                "file": "basin/Floating-Point Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velocity"
-            }
-          },
-          {
-            "id": "926f93ee7a78adb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Operations in Scientific Notation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operations in Scientific Notation"
+              "title": "Floating-Point Number"
             }
           }
         ],
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basin/Velocity.md",
+                "file": "basin/Floating-Point Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Velocity"
+              "title": "Backlinks for Floating-Point Number"
             }
           },
           {
@@ -191,7 +177,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -212,42 +199,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d03d193190548013",
+  "active": "569ff4c87488a221",
   "lastOpenFiles": [
-    "basin/Operations in Scientific Notation.md",
-    "basin/Velocity.md",
-    "basin/Significant Figures.md",
-    "basin/SI Prefixes.md",
-    "basin/International System of Units (SI).md",
-    "basin/Kinematics.md",
-    "basin/Speed.md",
-    "basin/Magnitude.md",
-    "basin/Vector Quantity.md",
-    "basin/Derived Units.md",
-    "basin/Java.md",
-    "canvas/sic parvis magna.md",
-    "applied/PHYS-103-W1.md",
+    "basin/Print Stream (Java Class).md",
+    "basin/Floating-Point Number.md",
+    "basin/NaN (CS).md",
+    "basin/Floating-Point Division.md",
+    "basin/CS120.md",
+    "basin/Scanner Class (Java).md",
+    "basin/Literal (CS).md",
+    "basin/Incremental Development.md",
+    "basin/String Literal.md",
+    "basin/Compound Operators.md",
+    "blueprint/Date Blueprint.md",
+    "blueprint/Tabula Rasa.md",
+    "blueprint/Java Blueprint.md",
+    "Current Date/Time.md",
+    "Current Date",
+    "Untitled",
+    "basin/Precedence Rules.md",
+    "basin/Operator (CS).md",
+    "basin/Expression (CS).md",
+    "basin/Java Keywords.md",
+    "blueprint/CS Blueprint.md",
+    "blueprint/Physics Blueprint.md",
+    "basin/Camel Case.md",
+    "basin/Cartesian Coordinates.md",
+    "basin/Accuracy & Precision.md",
+    "basin/Reserved Word.md",
+    "basin/Identifier.md",
+    "basin/Position.md",
     "almanac/PHYS-103-WS1.1.pdf",
-    "almanac/PHYS-103-WS1.1.pdf.md",
-    "basin/Scientific Notation.md",
-    "applied/nunc coepi.md",
-    "applied/scientific-measurement-ws-1.1.pdf.md",
     "almanac/scientific-measurement-ws-1.1.pdf",
     "almanac",
     "untitled folder",
-    "blueprint/tabula rasa.md",
     "canvas",
-    "Excalidraw/Drawing 2025-09-07 21.38.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-07 21.36.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-07 21.36.53.excalidraw.md",
     "Excalidraw",
     "applied",
-    "traceback/Physics.md",
-    "traceback/Number-Expression.md",
-    "basin/base ten.md",
-    "traceback",
-    "Welcome.md",
-    "blueprint",
-    "basin"
+    "traceback"
   ]
 }

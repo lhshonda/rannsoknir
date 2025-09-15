@@ -45,5 +45,5 @@ In the event you are to perform operations with exact numbers they would not cha
 You are looking to minimize the round-off errors in the calculation, thus you may keep all digits if possible. The 1-2 extra digit rule is there for convenience and contextual sufficiency.
 
 ###### sources
-[[https://en.wikipedia.org/wiki/Scientific_notation#Basic_operations|wiki - sn operations]]
-[[https://www.youtube.com/watch?v=pdmGhu4GYE4|physics lecture 1.1]]
+[https://en.wikipedia.org/wiki/Scientific_notation#Basic_operations]
+[https://www.youtube.com/watch?v=pdmGhu4GYE4]
