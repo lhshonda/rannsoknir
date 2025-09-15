@@ -26,6 +26,15 @@ Scientific notation is useful for representing floating-point numbers that are m
 
 The e stands for exponent. Likewise, 0.001 is 1 x 10-3 and can be written as 1.0e-3. For a floating-point literal, good practice is to make the leading digit non-zero.
 
+###### Questions
+$$
+\begin{align} \\
+1.0e^{-4} \neq 0.0001 \\
+\text{What happened to the significance of .0?} \\
+\text{If aiming to preserve all significant numbers, would it not be 0.00010 as a floating-point literal?}
+
+\end{align}
+$$
 ---
 ###### Warnings
 
