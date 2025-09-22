@@ -11,5 +11,9 @@ The syntax for outputting the double myFloat with two digits after the decimal p
 
 >  System.in is a InputStream object automatically created when a Java programs executes.
 
+```
+\n can be used to backspace onto a new line 
+```
+
 ---
 
