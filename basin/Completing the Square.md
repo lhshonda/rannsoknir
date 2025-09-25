@@ -1,6 +1,8 @@
 2025-09-11 // 18:27
 
-:: [[Algebra]]
+:: [[Mathematics]]
+
+---
 
 A method used to solve [[Quadratic Equations|quadratic equations]], where you look to create a [[Perfect Square|perfect square]] on one side of the equation.
 

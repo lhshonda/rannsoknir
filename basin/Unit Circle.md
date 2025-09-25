@@ -3,5 +3,4 @@
 :: [[Mathematics]]
 
 ---
-##### Adnotanda
 

@@ -44,7 +44,7 @@ $$
 
 \def\circ{3.1416 * \d}
 \coordinate (start) at (0, 0);
-\draw[-, thick] (start) --++ (\circ, 0);
+\draw[-, thick, dashed] (start) --++ (\circ, 0);
 \draw (start) node[below left] {$0$};
 \draw (\circ, 0) node[below right] {Circumference, $C$};
 

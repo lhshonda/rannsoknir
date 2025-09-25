@@ -2,6 +2,7 @@
 
 :: [[Physics]]
 
+---
 ##### Adnotanda
 
 **Accuracy** is the degree of closeness of measurements of a quantity to its true value.
