@@ -1,12 +1,16 @@
 2025-09-12 // 23:54
 
+:: [[Mathematics]]
+
 ---
 
-##### Adnotanda
+:: [[Physics]] section.
 
-###### Basketball thrown through hoop.
-Given a graph of $(x\text{ }(m),y\text{ }(m))$ coordinates defined with points at specific instances of $t\text{(s)}$. 
-The $x$ and $y$ coordinate system make up the ball's position at each frame ($\text{time instance}$) throughout the graph. 
+> Basketball thrown through hoop.
+
+A graph (x, y), is defined with specific instances in respect to time in seconds. 
+
+The $x$ and $y$ coordinate system make up the ball's position at each frame (time instance) throughout the graph. 
 
 The ball's position, for example, could be identified to be:
 

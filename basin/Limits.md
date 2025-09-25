@@ -303,21 +303,7 @@ rand + rand + rand + rand + rand);
 
 
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-\usetikzlibrary {datavisualization.formats.functions}
-  \datavisualization [school book axes, visualize as smooth line,
-    x axis={ticks={minor steps between steps}},
-    y axis={ticks={minor steps between steps}},
-  ]
-    data [format=function] {
-      var x : interval [-1.5:1.5];
-      func y = \value x^2;
-    };
-\end{tikzpicture}
-\end{document}
-```
+r
 
 ```tikz
 \begin{document}
