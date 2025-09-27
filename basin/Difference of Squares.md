@@ -13,8 +13,7 @@ a^{2}-b^{2} = (a-b)(a+b)
 $$
 
 
-The pattern can be observed when you begin to look for perfect squares in cases like $x^{2}-9$.
-You may immediately pick up that $x^{2}$ is the perfect square for $x$, and $9$ for $3$. 
+The pattern can be observed when you begin to look for perfect squares in cases like $x^{2}-9$. In this case, $x^{2}$ is the perfect square for $x$, and $9$ for $3$. 
 
 >The difference is the subtraction symbol between the two perfect squares!
 

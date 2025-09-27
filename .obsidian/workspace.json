@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "402107da662a3418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Pi (π).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pi (π)"
-            }
-          },
-          {
-            "id": "8c34bdb1f78decbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Difference of Squares.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Difference of Squares"
-            }
-          },
-          {
             "id": "3200dde9b60e84ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "almanac/Nunc Coepi.md",
+                "file": "basin/Java Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nunc Coepi"
+              "title": "Java Class"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e6404fe13176c65",
@@ -210,34 +182,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c34bdb1f78decbf",
+  "active": "3200dde9b60e84ea",
   "lastOpenFiles": [
-    "almanac/Nunc Coepi.md",
-    "basin/Difference of Squares.md",
-    "basin/Perfect Square.md",
-    "basin/Completing the Square.md",
+    "basin/Euclidean Geometry.md",
+    "basin/Java Class.md",
     "basin/Pi (π).md",
-    "basin/NaN (CS).md",
-    "basin/Dimension.md",
-    "basin/Derived Units.md",
-    "basin/Definite Integral.md",
-    "basin/CS120.md",
-    "basin/Debugging.md",
-    "basin/Class (Programming).md",
-    "basin/Coherence (units of measurement).md",
+    "basin/String (Java).md",
+    "basin/String Literal.md",
+    "basin/Member Access Operators.md",
+    "basin/Reference Variable.md",
+    "basin/Scanner Class (Java).md",
     "basin/Perpendicular.md",
-    "basin/Unit Circle.md",
-    "basin/Trigonometric Functions.md",
-    "basin/Percent Error.md",
-    "basin/Motion.md",
-    "basin/Modality.md",
-    "basin/Mathematical Expression.md",
-    "basin/Mathematical Objects.md",
-    "basin/Compound Operators.md",
-    "basin/Algebra.md",
-    "basin/Accuracy & Precision.md",
-    "basin/Calculus.md",
-    "basin/Camel Case.md",
+    "basin/Riemann Sum.md",
+    "basin/Pythagorean Theorem.md",
+    "basin/Difference of Squares.md",
+    "basin/Axiom.md",
+    "basin/Right Angle.md",
+    "basin/Left & Right Riemann Sums.md",
+    "almanac/Nunc Coepi.md",
+    "basin/Java Keywords.md",
+    "basin/JavaScript.md",
+    "basin/Java.md",
+    "basin/Irrational Number.md",
+    "basin/Indeterminate Form.md",
+    "basin/Incremental Development.md",
+    "basin/Identifier.md",
+    "basin/Graphics (Java).md",
+    "basin/Geometric Properties.md",
+    "basin/Function Composition.md",
     "basin/Untitled.base",
     "basin/test.base",
     "Current Date",
