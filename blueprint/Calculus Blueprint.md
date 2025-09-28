@@ -1,7 +1,6 @@
-{{date}} // {{time}}
 
-:: [[Calculus]]
 
 ---
-##### Adnotanda
+{{date}} // {{time}}
+:: [[Calculus]]
 

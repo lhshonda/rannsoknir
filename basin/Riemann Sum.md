@@ -4,7 +4,15 @@
 
 ---
 
-A Riemann Sum is an approximation of an integral. There are different types of Riemann sums. The two represented below are the most commonly used to approximate an integral.
+A Riemann Sum is an approximation of the area under a curve. There are different types of Riemann sums. They use a finite, countable number of rectangles.
+
+$$
+Area≈\sum_{i=1}^{n}f(x_{i}^{*})\Delta x
+$$
+
+---
+
+>Left & Right Endpoint Summations
 
 ```tikz
 \begin{document}

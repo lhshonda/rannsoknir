@@ -1,8 +1,7 @@
-{{date}} // {{time}}
 
-:: [[Java]]
 
 ---
-
+{{date}} // {{time}}
+:: [[Java]]
 
 

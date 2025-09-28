@@ -1,8 +1,5 @@
-{{date}} // {{time}}
-
-:: [[Mathematics]]
 
 ---
-
-
+{{date}} // {{time}}
+:: [[Mathematics]]
 

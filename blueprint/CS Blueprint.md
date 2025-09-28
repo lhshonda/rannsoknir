@@ -1,8 +1,5 @@
-{{date}} // {{time}}
 
-:: [[Computer Science]]
 
 ---
-
-
-
+{{date}} // {{time}}
+:: [[Computer Science]]

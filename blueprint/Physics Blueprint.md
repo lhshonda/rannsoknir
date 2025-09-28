@@ -1,7 +1,5 @@
-{{date}} // {{time}}
 
-:: [[Physics]]
 
 ---
-
-
+{{date}} // {{time}}
+:: [[Physics]]

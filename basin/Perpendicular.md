@@ -38,3 +38,5 @@ Perpendicularity may be represented by $\perp$.
 
 > The slope of two perpendicular slopes equal $-1$ when multiplied.
 
+---
+
