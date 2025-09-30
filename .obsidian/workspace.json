@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Displacement.md",
-                "mode": "preview",
+                "file": "basin/Sigma Notation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Displacement"
+              "title": "Sigma Notation"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basin/Displacement.md",
+                "file": "basin/Final Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Displacement"
+              "title": "Backlinks for Final Velocity"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basin/Displacement.md",
+                "file": "basin/Final Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Displacement"
+              "title": "Outgoing links from Final Velocity"
             }
           },
           {
@@ -186,8 +186,16 @@
   },
   "active": "3200dde9b60e84ea",
   "lastOpenFiles": [
+    "basin/Mathematical Expression.md",
+    "basin/Sigma Notation.md",
+    "basin/Distributive Property.md",
     "basin/Final Velocity.md",
+    "basin/Sublimation.md",
+    "almanac/Nunc Coepi.md",
+    "basin/Factoring.md",
+    "basin/Distance.md",
     "basin/Displacement.md",
+    "basin/Constant.md",
     "blueprint/Physics Blueprint.md",
     "blueprint/Math Blueprint.md",
     "blueprint/CS Blueprint.md",
@@ -196,22 +204,14 @@
     "blueprint/Java Blueprint.md",
     "blueprint/Tabula Rasa.md",
     "basin/Average Velocity.md",
-    "basin/Constant.md",
     "basin/Equation.md",
-    "basin/Mathematical Expression.md",
     "basin/Magnitude.md",
     "basin/Vector Quantity.md",
     "traceback/Physics.md",
-    "basin/Distance.md",
     "basin/Linear.md",
     "basin/Mathematical Constant.md",
     "basin/Scalar.md",
     "basin/Dimension.md",
-    "basin/Ordered Pair.md",
-    "basin/Point-Slope Form.md",
-    "basin/Perpendicular.md",
-    "basin/Right Angle.md",
-    "traceback/Mathematics.md",
     "basin/Untitled.base",
     "basin/test.base",
     "Current Date",

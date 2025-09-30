@@ -1,9 +1,3 @@
-2025-09-28 // 16:20
-
-:: [[Physics]]
-
----
-
 In physics, **distance** refers to the [[Magnitude|magnitude]], i.e. the total length of the path an object travels. Being a [[Scalar|scalar]] quantity, it does not account for direction in the same way [[Displacement|displacement]] does. 
 
 >An object's total path, distance, can never be negative. Its lowest value will always be zero in the event the object never moves.
@@ -47,9 +41,7 @@ In physics, **distance** refers to the [[Magnitude|magnitude]], i.e. the total l
 \end{tikzpicture}
 \end{document}
 ```
-$$
-\begin{gather}
-
-\end{gather}
-$$
 ---
+
+2025-09-28 // 16:20 
+:: [[Physics]]

@@ -1,6 +1,6 @@
 It refers to the velocity of an object at a specific instance in [[time]], after having traveled for some duration, $t$, with constant acceleration. Not to be confused with an object's [[Terminal Velocity|terminal velocity]].
 
-Starting from the assumption of [[constant]] acceleration, we're able to create an [[equation]] solving for the **final velocity** of an object.
+Starting from the assumption of [[constant]] [[Acceleration|acceleration]], we're able to create an [[equation]] solving for the **final velocity** of an object.
 
 $$
 \begin{gather}\\
@@ -27,5 +27,6 @@ v^{2}_{f}=2a\Delta x+v^{2}_{i}
 $$
 
 ---
+
 2025-09-28 // 17:03 
 :: [[Physics]]

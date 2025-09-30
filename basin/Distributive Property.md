@@ -1,9 +1,3 @@
-2025-09-28 // 01:00
-
-:: [[Mathematics]]
-
----
-
 This property demonstrates how multiplication distributes itself over addition and asserts the following equality.
 
 $$
@@ -15,3 +9,7 @@ x\cdot (y+z)=x\cdot y+x\cdot z \\
 44=44
 \end{gather}
 $$
+---
+
+2025-09-28 // 01:00
+:: [[Mathematics]]

@@ -13,3 +13,5 @@ deriving the ratios in special right triangles
 simplifying and rationalizaing the denominator
 function compsition, arithmetic combination differing from function ** in (fg)(x) vs (f $\circ$ g)(x)
 factors
+phase transition & others
+sublimation
