@@ -1,8 +1,4 @@
-2025-09-10 // 12:04
-
-:: [[Java Class]]
-
-##### Adnotanda
+A [[Java Class|Java class]] used to parse input data. 
 
 Scanner's nextDouble() method reads a floating-point value from input. 
 
@@ -30,3 +26,6 @@ public class TravelTime {
    }
 }
 ```
+
+---
+#computer-science #java

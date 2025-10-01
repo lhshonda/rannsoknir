@@ -1,9 +1,3 @@
-2025-09-25 // 15:18
-
-:: [[Mathematics]]
-
----
-
 Two specific types of [[Right Angle|right triangles]] with predictable side-length ratios. Knowing a single side allows us to determine all of the other missing side lengths!
 
 ---
@@ -100,4 +94,4 @@ With the angles of $30^\circ$, $60^\circ$, and $90^\circ$. The hypotenuse is twi
 ```
 
 ---
-
+#math 

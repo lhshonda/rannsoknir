@@ -1,10 +1,3 @@
-2025-09-15 // 14:48
-
-:: [[Java]]
-:: [[Computer Science]]
-
----
-
 Creating an object and assigning a variable with that object involves three parts: 
 
 ```java
@@ -31,3 +24,6 @@ new
 Histogram();
 ```
 
+
+---
+#computer-science #java

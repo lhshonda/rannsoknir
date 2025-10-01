@@ -1,6 +1,6 @@
 
 ### check over 
-
+### kinematics notes dear god
 irrational number
 conversion factor
 pythag theorem
@@ -15,3 +15,7 @@ function compsition, arithmetic combination differing from function ** in (fg)(x
 factors
 phase transition & others
 sublimation
+MOTION
+OOP
+ORIGIN
+PRECISION

@@ -1,11 +1,4 @@
-2025*-09-24 // 23:05
-
-:: [[Mathematics]]
-
----
-
 Defined by an intersection of two objects at a [[Right Angle|right angle]]. 
-Perpendicularity may be represented by $\perp$.
 
 ```tikz
 \begin{document}
@@ -35,8 +28,11 @@ Perpendicularity may be represented by $\perp$.
 \end{document}
 ```
 
-
-> The slope of two perpendicular slopes equal $-1$ when multiplied.
+$$
+\begin{gather}
+\text{The slope of two perpendicular slopes equal -1}  \text{ when multiplied.}
+\end{gather}
+$$
 
 ---
-
+#math 

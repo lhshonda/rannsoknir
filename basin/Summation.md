@@ -38,3 +38,4 @@ $$
 With this pair-like relationship in mind, it becomes evident that in this case we have 50 such pairs. Multiply the common sum of each pair by the number of pairs and you get the summation. Denoted as an **arithmetic sequence**, this pairing trick may be used to find the sum of any such sequence.
 
 ---
+#math #calculus 

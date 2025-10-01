@@ -1,9 +1,3 @@
-2025-09-09 // 20:57
-
-:: [[Mathematics]]
-
----
-
 Trigonometric are **real functions** that relate an angle of a [[Right Angle|right-angled]] triangle to ratios of two side lengths. 
 
 > Also called circular functions, angle functions or goniometric functions. An easy way to remember them is through the famous mnemonic: **SOH CAH TOA**.
@@ -78,3 +72,5 @@ $$
 \theta=\\sin ^{-1}(x)=\\sin\ \theta=x.
 $$
 
+---
+#math

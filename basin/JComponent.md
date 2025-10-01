@@ -1,9 +1,3 @@
-2025-09-15 // 23:41
-
-:: [[Java]]
-
----
-
 A JComponent is a blank graphical component that a programmer extends (or customizes) with custom code in order to draw basic shapes.
 
 The code below demonstrates how to create a custom class that extends JComponent to draw 2D graphics:
@@ -25,7 +19,7 @@ public class MyCustomJComponent extends JComponent {
 }
 ```
 
-The above code defines a [[Class (Programming)|class]] named MyCustomJComponent that extends JComponent. 
+The above code defines a [[Class (OOP)|class]] named MyCustomJComponent that extends JComponent. 
 The class should be saved to a separate file named with the same name:
 
 `MyCustomJComponent.java` 
@@ -33,8 +27,7 @@ The class should be saved to a separate file named with the same name:
 A programmer completes the template by providing custom drawing instructions in the paintComponent() method.
 
 ---
-
-> Drawing a histogram in a frame.
+##### Drawing a histogram in a frame
 
 ```java
 import java.awt.Color;
@@ -88,3 +81,6 @@ The HistogramComponent's paintComponent() uses Rectangle and Color objects to dr
 3. **Create a Color object**: A Color object represents a color in the red, green, blue color space. A Color constructor accepts an integer value between 0 to 255 for each color channel as specified by the constructor definition: `Color(int red, int green, int blue)`. For example, the statement  `Color binColor1 = new Color(128, 128, 0);`creates a Color object with an olive color.
 4. **Set the color used by the Graphics2D object**: Graphic2D's setColor() method sets the color that the Graphics2D object will use for subsequent drawing operations.
 5. **Draw the shape**: A Graphic2D object provides different methods for drawing shapes. The draw() method will draw an outline of a shape, such as a Rectangle object, using the Graphic2D object's current color. The fill() method will draw a shape filling the interior of the shape with the Graphic2D object's current color.
+
+---
+#computer-science #java

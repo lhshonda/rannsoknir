@@ -45,6 +45,7 @@ $$
 $$
 
 >When using these properties, you may separate the sum of an integer, and it may seem somewhat confusing. We may expect the summation rule to contain a variable such as $i$, but a constant rule is perfectly valid.
+
 $$
 \begin{gather} \\
 \sum_{i=1}^{20} 1=20 \\ \\
@@ -70,7 +71,4 @@ $$
 $$
 
 ---
-
-2025-09-29 // 22:10
-:: [[Mathematics]]
-
+#math #calculus 

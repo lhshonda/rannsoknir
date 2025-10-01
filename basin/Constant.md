@@ -1,4 +1,4 @@
-Though used in different ways within mathematics, to be **constant** implies a state of invariance. [[Coefficient|Coefficients]] embedded within polynomial [[Mathematical Expression|expressions]] would classify as constants. A function of fixed value would be considered a constant.
+To be **constant** implies a state of invariance. [[Coefficient|Coefficients]] embedded within polynomial [[Mathematical Expression|expressions]] would classify as constants. A [[Function|function]] of fixed value would be considered a constant.
 
 ```tikz
 \begin{document}
@@ -42,6 +42,5 @@ y=c\text{ }\text{ }\text{is therefore, a constant function.}
 \end{gather}
 $$
 ---
+#math
 
-2025-09-28 // 14:15
-:: [[Mathematics]]

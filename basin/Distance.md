@@ -42,6 +42,4 @@ In physics, **distance** refers to the [[Magnitude|magnitude]], i.e. the total l
 \end{document}
 ```
 ---
-
-2025-09-28 // 16:20 
-:: [[Physics]]
+#physics 

@@ -1,10 +1,3 @@
-
-2025-09-15 // 19:47
-
-:: [[Java]]
-
----
-
 Java supports a set of objects for developing graphical applications. A graphical application is a program that displays drawings and other graphical objects.
 
 Graphical applications display their contents inside a window called a [[Frame|frame]] using a [[JFrame]] object. The following shows how to create and configure a JFrame object to display an empty application window:
@@ -34,5 +27,5 @@ public class EmptyFrame {
 
 - Alternatively, the frame's title can be provided as an argument to JFrame's constructor as in `JFrame appFrame = new JFrame("An Empty Frame")`.
 
-
-
+---
+#computer-science #java

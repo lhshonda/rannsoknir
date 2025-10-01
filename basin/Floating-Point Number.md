@@ -1,14 +1,7 @@
-2025-09-15 // 12:48
-
-:: [[Computer Science]]
-
----
-##### Adnotanda
-
 A floating-point number is a real number containing a decimal point that can appear anywhere (or "float") in the number. Ex: 98.6, 0.0001, or -55.667.
 
 ---
-###### Java-Specific?
+##### Java
 
 A double variable stores a floating-point number. Ex: `double milesTravel;` declares a double variable.
 
@@ -20,7 +13,7 @@ The syntax for outputting the double myFloat with two digits after the decimal p
 `System.out.printf("%.2f", myFloat);`
 
 ---
-###### Scientific Notation
+##### Scientific Notation
 
 Scientific notation is useful for representing floating-point numbers that are much greater than or much less than 0, such as 6.02 x 1023. A floating-point literal using scientific notation is written using an e preceding the power-of-10 exponent, as in 6.02e23 to represent 6.02 x 1023. 
 
@@ -36,6 +29,9 @@ $$
 \end{align}
 $$
 ---
-###### Warnings
+##### Warnings
 
 Some programmers warn against using floating-point for money, as in 14.53 representing 14 dollars and 53 cents, because money is a countable item.
+
+---
+#computer-science #java

@@ -1,10 +1,3 @@
-2025-09-12 // 22:32
-
-:: [[Physics]]
-
----
-##### Adnotanda
-
 The change in position or orientation of an object with time. 
 
 `In the case of a vehicle moving, its wheels are changing in position, but at the same time the orientation, due to rotation, at any point on the wheel, its orientation is also changing.
@@ -28,3 +21,6 @@ A **point particle** (particle model), is the conceptual model in physics that r
 **Motion path diagrams** show an object's position at several equally spaced instants of time.
 	e.g. 'stationary' 'constant speed' 'speeding up' 'slowing down'
 
+
+---
+#physics 

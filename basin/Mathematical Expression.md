@@ -5,5 +5,4 @@ A written arrangement of [[Symbols|symbols]]. Symbols may denote numbers, variab
 Expressions are commonly used to define [[Function|functions]].
 
 ---
-2025-09-09 // 19:44
-:: [[Mathematics]]
+#math 

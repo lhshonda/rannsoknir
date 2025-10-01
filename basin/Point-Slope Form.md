@@ -1,9 +1,3 @@
-2025-09-24 // 23:26
-
-:: [[Mathematics]]
-
----
-
 A formula used to describe the equation of a line knowing its slope and the coordinates of at least one point its domain.
 
 $$
@@ -23,3 +17,6 @@ $$
 
 > The point-slope formula is the definition of slope in disguise!
 
+
+---
+#math

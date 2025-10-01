@@ -1,9 +1,3 @@
-2025-09-24 // 23:07
-
-:: [[Mathematics]]
-
----
-
 An angle of $90^\circ$ or $\frac{\pi}{2}$ radians. 
 Commonly created by the perpendicular intersection of two elements.
 
@@ -26,3 +20,6 @@ Commonly created by the perpendicular intersection of two elements.
 
 \end{document}
 ```
+
+---
+#math

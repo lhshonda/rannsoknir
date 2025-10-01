@@ -1,9 +1,3 @@
-2025-09-16 // 19:59
-
-:: [[Mathematics]]
-
----
-
 These are some of the useful environments to keep in mind in order to take nice mathematical notes with $\LaTeX$, in combination with the plugin I use on obsidian.
 
 I will typically initiate a centered math aware block with the keyword `dm`, and follow up with `beg` in order to articulate my specific env. 
@@ -48,3 +42,4 @@ $$
 > Any further shortcuts may be found or configured within the $LaTeX$ Suite plugin.
 
 ---
+#math 

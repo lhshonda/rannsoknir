@@ -1,10 +1,4 @@
-2025-09-15 // 14:11
-
-:: [[Java]]
-
----
-
-> An object's methods are commonly classified as either mutators or accessors.
+An object's methods are commonly classified as either mutators or accessors. 
 
 A **mutator** method may modify ("mutate") the object, thereby changing the object's internal data. An **accessor** method accesses the object's data but does not modify the internal data.
 
@@ -22,7 +16,7 @@ The "." operator is also known as the [[Member Access Operators|member access o
 
 Programmers influence the behavior of methods by providing additional input values, called **method arguments**, in a method call.
 
-The input specified in a method definition is call a **[[Parameter|parameter]]**.
+The input specified in a method definition is call a [[Parameter|parameter]].
 
 The value passed to a parameter is known as an **argument**.
 
@@ -67,3 +61,6 @@ A method can return either zero or one value .
 A class' **public methods** are the operations that a program can directly invoke on objects of that class type. The class' public methods are often called the class interface.
 
 The methods for a class' interface are listed after the public keyword in the class definition. The internal data (and internal methods) are listed after the private keyword.
+
+---
+#computer-science #java

@@ -1,7 +1,3 @@
-2025-09-12 // 17:10
-
-:: [[Kinematics]]
-
 This fundamental concept in kinematics is considered a [[Vector Quantity|vector quantity]]. Velocity's scalar. also know as its [[Magnitude|magnitude]], is [[Speed|speed]].
 
 ###### Average Velocity
@@ -16,3 +12,6 @@ This is what average velocity becomes when a single instant in time is infinitel
 $$
 v = \lim_{ \Delta t \to 0 } \frac{\Delta s}{\Delta t}=\frac{ds}{dt}
 $$
+
+---
+#physics 

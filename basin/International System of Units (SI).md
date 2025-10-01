@@ -1,8 +1,5 @@
-2025-09-08 // 04:29
-
-:: [[Physics]]
-
-Internationally known as **SI** coming from the French name, “Système international d’unités”. This is the modern form of the metric system. It is composed of a [[Coherence (units of measurement)|Coherent Set of Units]].
+This is the modern form of the metric system. It is composed of a [[Coherent Set of Units|coherent set of units]].
+Internationally known as **SI** coming from the French name, “Système international d’unités”. 
 ###### Base Units
 
 	Second(s): time
@@ -21,6 +18,5 @@ Coherency in short means that no abstract constants are necessary. The pure powe
 
 [[Dimension]] in this context refers to the kind of physical quantity.
 
-
-
-
+---
+#physics 

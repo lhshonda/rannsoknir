@@ -10,6 +10,4 @@ x\cdot (y+z)=x\cdot y+x\cdot z \\
 \end{gather}
 $$
 ---
-
-2025-09-28 // 01:00
-:: [[Mathematics]]
+#math 

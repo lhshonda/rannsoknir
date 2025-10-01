@@ -1,9 +1,3 @@
-2025-09-11 // 18:27
-
-:: [[Mathematics]]
-
----
-
 A method used to solve [[Quadratic Equations|quadratic equations]], where you look to create a [[Perfect Square|perfect square]] on one side of the equation.
 
 $$
@@ -25,3 +19,5 @@ x=\frac{3}{2}\pm\sqrt{ \frac{61}{20} }
 
 \end{gather}
 $$
+---
+#math 

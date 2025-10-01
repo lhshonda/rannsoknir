@@ -1,8 +1,3 @@
-2025-09-27 // 20:45
-
-:: [[Mathematics]]
-
----
 $$
 \begin{gather}
 \text{\textbf{Factoring by Grouping}} \\ \\
@@ -36,3 +31,5 @@ $$
 $$
 
 
+---
+#math

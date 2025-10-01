@@ -1,9 +1,3 @@
-2025-09-24 // 23:53
-
-:: [[Mathematics]]
-
----
-
 Unit used for measuring angles. Defined by the radius of a circle–a radian is measured by the angle created when the length of the radius is wrapped around the edge of a circle.
 
 
@@ -62,4 +56,4 @@ $$
 $$
 
 ---
-
+#math 

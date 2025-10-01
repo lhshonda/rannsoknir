@@ -1,9 +1,3 @@
-2025-09-10 // 12:43
-
-:: [[Java]]
-
----
-
 A class in Java is a blueprint that defines what data an object can hold and what actions it can perform. You do not need to know how the computer stores the object in memory. You only need to know how to create objects from the class and use the public methods or variables it provides.
 
 >A **class construct** is the code structure in Java that lets you define a class. It tells the compiler what data and methods belong to that class. 
@@ -31,7 +25,7 @@ public class ClassExample {
 
 ---
 
->In a statement such as:
+##### 
 
 ```java
 PeopleCounter passengerCounter = new PeopleCounter();
@@ -42,3 +36,4 @@ A `PeopleCounter` class is used to define the type of variable, in this case an 
 The variable is then instantiated as an object of `PeopleCounter` through the construction call `new PeopleCounter();`.
 
 ---
+#computer-science #java

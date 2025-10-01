@@ -1,7 +1,4 @@
-2025-09-08 // 02:14
-
-:: [[Scientific Notation]]
-###### Addition & Subtraction
+##### Addition & Subtraction
 
 In order to perform addition and subtraction both of the numbers must be represented by the same exponential part. 
 
@@ -13,7 +10,7 @@ Now you may add the coefficients: $1.651\times 10^{5}$
 
 ###### Multiplication & Division
 
-When performing operations in scientific notation such as multiplication & divisions, you are to use to the rules for operation with [[Exponentiation]].
+When performing operations in scientific notation such as multiplication & divisions, you are to use to the rules for operation with [[Exponentiation|exponentiation]].
 
 The coefficients are multiplied/divided & the exponents added/subtracted by one another.
 
@@ -23,6 +20,7 @@ $$
 
 Lastly, reduce the coefficient below a value of 10 if necessary: $1.598 \times 10^{8}$
 
+---
 ##### Adnotanda
 
 $$
@@ -44,6 +42,5 @@ In the event you are to perform operations with exact numbers they would not cha
 
 You are looking to minimize the round-off errors in the calculation, thus you may keep all digits if possible. The 1-2 extra digit rule is there for convenience and contextual sufficiency.
 
-###### sources
-[https://en.wikipedia.org/wiki/Scientific_notation#Basic_operations]
-[https://www.youtube.com/watch?v=pdmGhu4GYE4]
+---
+#physics 

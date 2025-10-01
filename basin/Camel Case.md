@@ -1,8 +1,4 @@
-2025-09-15 // 10:34
-
-:: [[Computer Science]]
+Lower camel case abuts multiple words, capitalizing each word except the first, as in numApples or peopleOnBus.
 
 ---
-##### Adnotanda
-
-Lower camel case abuts multiple words, capitalizing each word except the first, as in numApples or peopleOnBus.
+#computer-science

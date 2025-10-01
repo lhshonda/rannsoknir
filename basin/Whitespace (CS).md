@@ -1,10 +1,3 @@
-2025-09-15 // 14:03
-
-:: [[Computer Science]]
-
----
-##### Adnotanda
-
 Whitespace refers to blank spaces (space and tab characters) between items within a statement and blank lines between statements (called newlines). A compiler ignores most whitespace.
 
 Not all spaces are ignored by the compiler. 
@@ -47,3 +40,5 @@ public class WhitespaceEx {
 }
 ```
 
+---
+#computer-science #java

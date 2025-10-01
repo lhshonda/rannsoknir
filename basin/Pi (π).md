@@ -1,21 +1,16 @@
-2025-09-25 // 00:43
-
-:: [[Mathematics]]
-
----
-
 Pi, symbolically represented by π, is a [[Mathematical Constant|mathematical constant]] defined as the ratio of a circle's [[Circumference|circumference]] to its [[Diameter|diameter]]. Since π is an [[Irrational Number|irrational number]], it cannot be represented by the ratio of two integers. It goes on forever without falling into a repeating pattern.
 
 $$
-\begin{gather}
+\begin{gather} \\
 \pi = \frac{\text{Circumference}}{\text{Diameter}}=\frac{C}{d} \\
  \\
 \pi d=C\\
-2\pi r=C
+2\pi r=C \\
 \end{gather}
 $$
 
-> The definition of π holds true for every circle in the universe.
+*The definition of π holds true for every circle in the universe.*
+
 
 ```tikz
 \begin{document}
@@ -69,6 +64,5 @@ $$
 \end{tikzpicture}
 \end{document}
 ```
-
-
-
+---
+#math

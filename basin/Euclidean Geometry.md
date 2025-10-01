@@ -1,10 +1,4 @@
-2025-09-25 // 23:50
-
-:: [[Mathematics]]
-
----
-
-Euclidean Geometry is a mathematical system developed by Greek mathematician. It describes the geometry of a flat space through a number of starting self-evident [[Axiom|axioms]], and then using pure logic to prove all other theorems.
+A mathematical system developed by Greek mathematician. It describes the geometry of a flat space through a number of starting self-evident [[Axiom|axioms]], and then using pure logic to prove all other theorems.
 
 ---
 ##### Euclid's Five Axioms
@@ -24,5 +18,6 @@ Euclidean Geometry is a mathematical system developed by Greek mathematician. It
 **The Parallel Postulate**
 - Through a point not on a given line, there is **exactly one** line that can be drawn parallel to the given line.
 
+[[Exponentiation]]
 ---
-
+#math

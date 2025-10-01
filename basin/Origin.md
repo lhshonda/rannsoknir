@@ -1,8 +1,7 @@
-2025-09-24 // 22:37
+Within the [[Cartesian Coordinates|Cartesian coordinate system]], the origin is he point at which the x, and y [[Axes|axes]] intersect. Specifically $(0, 0)$ within the two dimensional [[Cartesian Plane|cartesian plane]].
 
-:: [[Mathematics]]
+
+In [[Euclidean Space|Euclidean space, ]]
 
 ---
-
-The point at which the x, and y axis intersect. 
-Addressed as (0, 0) within the two dimensional [[Cartesian Plane|cartesian plane]].
+#math

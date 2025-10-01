@@ -1,4 +1,0 @@
-2025-09-10 // 16:27
-
-:: [[Programming Languages]]
-

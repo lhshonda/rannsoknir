@@ -1,7 +1,3 @@
-2025-09-12 // 17:05
-
-:: [[Physics]]
-
 This branch in physics that studies and describes the motion of points, bodies, and systems of bodies without considering the forces that cause them to move.
 
 It does not ask why the element in motion takes the the trajectory it takes. The "why" falls upon the realm of [[Dynamics|dynamics]].
@@ -112,3 +108,6 @@ In the case you are solving for distance, then $v_{o}$ and $v_{f}$ would represe
 ###### Turning Point
 
 Commonly referred towards as a turning point, this is the instance of time an object might reach a velocity of 0 (near-zero), and begin to gain velocity in the opposite direction.
+
+---
+#physics 

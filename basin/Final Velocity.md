@@ -11,7 +11,7 @@ v_{f}=v_{i}+at \\
 $$
 ---
 
->Finding **final velocity** without time.
+##### Finding velocity without time
 
 If you don't know (and don't need to find) time, given constant acceleration, you can solve its equation for time. 
 $$
@@ -27,6 +27,4 @@ v^{2}_{f}=2a\Delta x+v^{2}_{i}
 $$
 
 ---
-
-2025-09-28 // 17:03 
-:: [[Physics]]
+#physics 

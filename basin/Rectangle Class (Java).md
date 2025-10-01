@@ -1,10 +1,4 @@
-2025-09-15 // 15:03
-
-:: [[Java Class]]
-
----
-
-The Java Rectangle class contains four instance members for the X and Y location of the rectangle's upper left corner, the rectangle's width, and the rectangle's height.
+The [[Java Class|Java class]] Rectangle, contains four instance members for the X and Y location of the rectangle's upper left corner, the rectangle's width, and the rectangle's height.
 
 ```java
 new Rectangle(40, 80, 100, 120)
@@ -25,3 +19,6 @@ translate(30, 40)
 
 This moves the rectangle to the right 30 units and downward 40 units.
 The Java coordinate system places the origin (0, 0) in the upper left corner
+
+---
+#computer-science #java

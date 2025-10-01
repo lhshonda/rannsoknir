@@ -1,10 +1,11 @@
-2025-09-12 // 17:16
+##### Math
 
-:: [[Mathematics]]
-:: [[Physics]]
+Magnitude serves as the property used to determine the larger of two objects of the same kind.
 
 ---
+##### Physics
 
-In mathematics, magnitude serves as the property used to determine the larger of two objects of the same kind.
+Defined as quantity or distance.
 
-In physics, it may be defined as quantity or distance.
+---
+#math #physics 

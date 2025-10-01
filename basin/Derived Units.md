@@ -1,10 +1,6 @@
-2025-09-08 // 05:09
+The seven **SI** base units in the [[International System of Units (SI)|International System of Units]] are used to create an infinite amount of other possible units that may be expressed as a product (or ration) of one or more of the base units.
 
-:: [[International System of Units (SI)]]
-
-The seven **SI** base units are used to create an infinite amount of other possible units that may be expressed as a product (or ration) of one or more of the base units.
-
-**SI** has made 22 names and symbols for 22 of these [[Coherence (units of measurement)|coherent]] derived units. The names of **SI** coherent derived units, when written in full, are always done so in lowercase.
+**SI** has made 22 names and symbols for 22 of these [[Coherent Set of Units|coherent]] derived units. The names of **SI** coherent derived units, when written in full, are always done so in lowercase.
 
 In the case for the symbols, the ones named after persons are written with an uppercase initial letter.
 
@@ -13,3 +9,5 @@ In the case for the symbols, the ones named after persons are written with an up
 - velocity (distance/time): $\frac{m}{s}$
 
 
+---
+#physics 

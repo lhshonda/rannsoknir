@@ -1,8 +1,3 @@
-2025-09-12 // 21:19
-
-:: [[Physics]]
-##### Adnotanda
-
 Significant figures is seen as the number of digits in a number that specify its accuracy. They are seen as the digits in a measurement that are known with certainty, plus another digit that is an estimate.
 
 If you had a measuring stick that had a millimeter as the smallest diving unit then you can't with certainty measure anything besides it. You may, however, estimate half or a quarter of a millimeter. 
@@ -36,3 +31,6 @@ $$
 In the event you are to perform operations with exact numbers they would not change the number of significant figures for a result. It is acceptable to keep one or two extra digits during intermediate steps of a calculation. 
 
 You are looking to minimize the round-off errors in the calculation, thus you may keep all digits if possible. The 1-2 extra digit rule is there for convenience and contextual sufficiency.
+
+---
+#physics 

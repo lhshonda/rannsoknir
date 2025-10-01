@@ -1,9 +1,3 @@
-2025-09-25 // 16:44
-
-:: [[Mathematics]]
-
----
-
 A pattern coming from the subtraction (difference) of [[Perfect Square|perfect squares]] such as $a^{2}-b^{2}$. A difference of squares always [[Factor|factors]] into the same two terms. One with a plus, the other with a minus.
 
 $$
@@ -15,7 +9,7 @@ $$
 
 The pattern can be observed when you begin to look for perfect squares in cases like $x^{2}-9$. In this case, $x^{2}$ is the perfect square for $x$, and $9$ for $3$. 
 
->The difference is the subtraction symbol between the two perfect squares!
+**The difference is the subtraction symbol between the two perfect squares!**
 
 $$
 \begin{gather}
@@ -30,3 +24,6 @@ $$
 x^{2}-3 \text{ is the same as }(x+\sqrt{ 3 })(x-\sqrt{ 3 })
 \end{gather}
 $$
+
+---
+#math

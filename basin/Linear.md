@@ -1,9 +1,3 @@
-2025-09-09 // 19:10
-
-:: [[Mathematics]]
-
----
-
 Linearity, the state/property of being linear within mathematics, is defined by the direct and proportional relationship between variables. For a function to be linear it's output must change in proportion to the change in input. 
 
 >The slope, i.e. its rise over run, must be [[constant]]!
@@ -60,3 +54,4 @@ $$
 \end{gather}
 $$
 ---
+#math 

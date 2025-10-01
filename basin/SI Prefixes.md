@@ -1,10 +1,6 @@
-2025-09-08 // 05:52
+In the [[International System of Units (SI)|International System of Units]], an SI Prefix, also known as metric prefix, is a unit prefix preceding a basic unit of measure in order to denote a multiple or submultiple of said unit. 
 
-:: [[International System of Units (SI)]]
-
-An **SI Prefix**, also known as **metric prefix**, is a unit prefix preceeding a basic unit of measure in order to denote a **multiple or submultiple** of said unit. 
-
-Prefixes like **kilo** or **milli**, for example, are both represented by unique symbols. 
+Prefixes like kilo or milli, for example, are both represented by unique symbols. 
 
 In the case of $kg$, kilo precedes gram and indicates a multiplication of one thousand. One gram would be 1g, whilst 1kg would signify 1000 grams in quantity.
 
@@ -36,3 +32,5 @@ This is due to $e_{A}-e_{B}=3-0$, since the powers of ten for meter and kilomete
 | micro |   µ    | $10^{-6}$ |   0.000 001   |
 | nano  |   n    | $10^{-9}$ | 0.000 000 001 |
 
+---
+#physics 

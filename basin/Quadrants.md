@@ -1,9 +1,3 @@
-2025-09-24 // 22:39
-
-:: [[Mathematics]]
-
----
-
 In a two dimensional setting, the [[Cartesian Plane|cartesian plane]] creates the four quadrants that are named after the [[Roman Numerals|roman numerals]] (I, II, III, IV) starting from the top-right and moving counter-clockwise.
 
 
@@ -21,5 +15,7 @@ In a two dimensional setting, the [[Cartesian Plane|cartesian plane]] creates th
 
 \end{tikzpicture}
 \end{document}
-
 ```
+
+---
+#math 

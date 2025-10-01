@@ -38,7 +38,8 @@ $$
 $$
 ---
 
->Displacement through [[Average Velocity|average velocity]].
+##### Displacement through [[Average Velocity|average velocity]]
+You can solve for displacement by multiplying a given average velocity by the amount of time you'd like to attain the displacement for.
 $$
 \begin{gather} \\
 \Delta x=\bar{v}\cdot t \\ \\
@@ -46,9 +47,8 @@ $$
 $$
 ---
 
->Deriving the kinematic equation. 
-
-In the case of [[constant]] [[Acceleration|acceleration]], we may substitute out average velocity for its equivalent [[Mathematical Expression|expression]] within the displacement [[equation]].
+##### Getting the Kinematic Equation
+When [[Acceleration|acceleration]] is [[constant]], the average velocity can be substituted for its equivalent [[Mathematical Expression|expression]] within the displacement [[equation]].
 $$
 \begin{gather} \\
 
@@ -67,5 +67,4 @@ v_{f}=v_{i}+at \\ \\
 \end{gather}
 $$
 ---
-2025-09-13 // 04:06
-:: [[Physics]]
+#physics 

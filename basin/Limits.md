@@ -1,9 +1,3 @@
-2025-09-16 // 18:42
-
-:: [[Mathematics]]
-
----
-
 The value approached as an argument approaches some value.
 
 $$
@@ -46,3 +40,5 @@ $$
 \lim_{ x \to 1 } \frac{1}{x}=\frac{1}{0} \\
 \end{gather}
 $$
+---
+#math #calculus 

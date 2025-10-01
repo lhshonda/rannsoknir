@@ -1,18 +1,14 @@
-2025-09-23 // 11:48
-
-:: [[Calculus]]
-
----
-
 A Riemann Sum is an approximation of the area under a curve. There are different types of Riemann sums. They use a finite, countable number of rectangles.
 
 $$
-Area≈\sum_{i=1}^{n}f(x_{i}^{*})\Delta x
+\begin{gather}\\
+Area≈\sum_{i=1}^{n}f(x_{i}^{*})\Delta x \\
+\end{gather}
 $$
 
 ---
 
->Left & Right Endpoint Summations
+##### Left & Right Endpoint Summations
 
 ```tikz
 \begin{document}
@@ -71,31 +67,32 @@ $$
 
 ---
 
-**Finding a sum given a function**: When looking to approximate the area under a curve for any function between two intervals, you may use a number of rectangles dictated by the amount of subdivisions you look to perform.
+##### Finding a sum given a function 
 
->Riemann sums contain what we refer to as subdivisions/partitions. These terms refer the amount of rectangles used, or rather the number of parts the interval being measured was divided into.
+When looking to approximate the area under a curve for any function between two intervals, you may use a number of rectangles dictated by the amount of subdivisions you look to perform.
+
+Riemann sums contain what we refer to as **subdivisions/partitions**. These terms refer the amount of rectangles used, or rather the number of parts the interval being measured was divided into.
 
 $$
-\begin{gather}
+\begin{gather} \\
 \text{In the case of } x^2+1\text{, suppose we want to utilize 4 subdivisions.} \\
-\text{Furthermore we want to approximate the area between } x=1\text{, and }x=3\text{.} \\
-
+\text{Furthermore we want to approximate the area between } x=1\text{, and }x=3\text{.} \\ \\
 \end{gather}
 $$
 
 In order to find the size of the subdivisions, given they're to be uniform in length, you can assume that a subdivision is the final interval position subtracted by the initial interval position over the total number of subdivisions:
 
 $$
-\begin{gather}
-\Delta x= \frac{x_{f}-x_{i}}{\text{n of divisions}} = \frac{3-1}{4}=\frac{1}{2}
+\begin{gather} \\
+\Delta x= \frac{x_{f}-x_{i}}{\text{n of divisions}} = \frac{3-1}{4}=\frac{1}{2} \\ \\
 \end{gather}
 $$
 
 The uniform subdivisions serve as the value of each rectangle's base. The heights used to calculate the area under the curve depend on the type of Riemann sum used. 
 
 $$
-\begin{gather}
-\text{As the bases are}= \Delta x \text{, the heights are the last items of importance.} \\
+\begin{gather} \\
+\text{As the bases are equal to } \Delta x \text{, the heights are the last items of importance.} \\
 \text{Solving for a left Riemann sum requires the use of the left boundaries.} \\
 \\
 f(1)\cdot \Delta x \:+f(1.5)\cdot \Delta x \:+f(2)\cdot \Delta x \:+f(2.5)\cdot \Delta x = \text{Approx. Area} \\ \\
@@ -105,16 +102,25 @@ f(1)\cdot \Delta x \:+f(1.5)\cdot \Delta x \:+f(2)\cdot \Delta x \:+f(2.5)\cdot 
 $$
 ---
 
-**Finding a sum using a table/values**: Given points $\text{(1, 6), (4, 8), (7, 3), and (10, 5).}$ Find the area underneath the curve using a right Riemann sum with three equal subdivisions for the graph of $f$ from $x=1$ to $x=10$.
+##### Finding a sum using a table/values 
 
-> The given points do not give an exact picture of what the function might look like on the graph. This, however, does not prevent us from performing an approximation utilizing a Riemann sum.
-
-- Since we are solving for the right Riemann sum, we look to use the right boundary of the subdivisions provided.
 
 $$
 \begin{gather}
-\text{The sum is simply the added area of the provided rectangles in respect to direction.} \\
-\text{The heights 8, 3, and 5 are used. All rectangles have a base of 3 here.} \\ (3\cdot 8)+(3\cdot 3)+(3\cdot 5) = 48
+\text{Consider points (1, 6), (4, 8), (7, 3), and (10, 5).} \\
+\text{Find the area underneath the curve using a right Riemann sum.} \\
+\text{Use three equal subdivisions, from }x=1\text{ to }x=10. \\
+\end{gather}
+$$
+
+ Since we are solving for the right Riemann sum, we look to use the right boundary of the subdivisions provided. The sum is simply the added area of the provided rectangles in respect to direction.
+
+$$
+\begin{gather} \\
+\text{The }y\text{-coordinates provide our heights.} \\ \
+\text{The base, }\Delta x\text{, comes from the space made fom the subdivisions.} \\
+\text{The area of each rectangle is }b\cdot h. \\ \\
+(3\cdot 8)+(3\cdot 3)+(3\cdot 5) = 48
 
 \end{gather}
 $$
@@ -122,4 +128,4 @@ $$
 > This approximation isn't inherently bad or good without an understanding of the nature of $f$ in its entirety. 
 
 ---
-
+#math #calculus 

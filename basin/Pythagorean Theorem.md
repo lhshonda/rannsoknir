@@ -1,9 +1,3 @@
-2025-09-25 // 23:30
-
-:: [[Mathematics]]
-
----
-
 The pythagorean theorem is a fundamental relation in [[Euclidean Geometry|Euclidean geometry]] between the sides of a [[Right Angle|right]] triangle. It states that in any right angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. 
 
 >The trigonometric identity, $\sin ^{2}(\theta)+\cos ^{2}(\theta)=1$, is Pythagoras' theorem in disguise!
@@ -42,3 +36,6 @@ The pythagorean theorem is a fundamental relation in [[Euclidean Geometry|Euclid
 \end{tikzpicture}
 \end{document}
 ```
+
+---
+#math
