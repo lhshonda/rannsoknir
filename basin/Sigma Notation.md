@@ -40,10 +40,19 @@ The **associative property**, or the rule for **splitting a sum** allows for a l
 
 $$
 \begin{gather}
-\sum_{i=1}^{n} a_{i}=\sum_{i=1}^{m}a_{i}+\sum_{i=m+1}^{n} a_{i}
+\sum_{i=1}^{n} a_{i}=\sum_{i=1}^{m}a_{i}+\sum_{i=m+1}^{n} a_{i} \\ \\
 \end{gather}
 $$
 
+>When using these properties, you may separate the sum of an integer, and it may seem somewhat confusing. We may expect the summation rule to contain a variable such as $i$, but a constant rule is perfectly valid.
+$$
+\begin{gather} \\
+\sum_{i=1}^{20} 1=20 \\ \\
+\text{\textbf{The summation above asks:}} \\
+\text{From }i=1\text{ to }i=20\text{ what does the ``rule'' of the sum generate?} \\ \\
+\text{The rule in this case is simply a constant function equal to 1.} \\ \\
+\end{gather} 
+$$
 ---
 
 >Writing a series in **Sigma Notation**
