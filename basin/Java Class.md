@@ -25,8 +25,6 @@ public class ClassExample {
 
 ---
 
-##### 
-
 ```java
 PeopleCounter passengerCounter = new PeopleCounter();
 ```

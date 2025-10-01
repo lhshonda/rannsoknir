@@ -16,7 +16,7 @@ The "." operator is also known as the [[Member Access Operators|member access o
 
 Programmers influence the behavior of methods by providing additional input values, called **method arguments**, in a method call.
 
-The input specified in a method definition is call a [[Parameter|parameter]].
+The input specified in a method definition is call a [[Parameter (CS)|parameter]].
 
 The value passed to a parameter is known as an **argument**.
 

@@ -1,6 +1,5 @@
 
 
 ---
-{{date}} // {{time}}
-:: [[Calculus]]
+#math #calculus 
 

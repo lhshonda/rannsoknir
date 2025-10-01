@@ -1,7 +1,4 @@
 
 
 ---
-{{date}} // {{time}}
-:: [[Java]]
-
-
+#computer-science #java

@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ce5ea5390837edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Motion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Motion"
-            }
-          },
-          {
             "id": "ca73ea10fed923a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Object-Oriented Programming.md",
+                "file": "basin/Method Call.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Object-Oriented Programming"
-            }
-          },
-          {
-            "id": "77a7a4b6e8fd3ee5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Method Call"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e6404fe13176c65",
@@ -119,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "basin/Method Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Method Call"
             }
           },
           {
@@ -206,34 +183,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77a7a4b6e8fd3ee5",
+  "active": "ca73ea10fed923a3",
   "lastOpenFiles": [
-    "basin/Whitespace (CS).md",
-    "basin/Velocity.md",
-    "basin/Vector Quantity.md",
-    "basin/Unit Circle.md",
-    "basin/Trigonometric Functions.md",
-    "basin/Theta - θ.md",
-    "basin/Summation.md",
-    "basin/Theory.md",
-    "basin/System.out.md",
-    "basin/Sublimation.md",
-    "basin/Style Guidelines.md",
-    "basin/String Interpolation.md",
-    "basin/String Literal.md",
-    "basin/String (Java).md",
-    "basin/Special Right Triangles.md",
-    "basin/Speed.md",
+    "basin/Riddles.md",
+    "blueprint/Date Blueprint.md",
+    "basin/中文.md",
     "basin/Simplifying.md",
-    "basin/Sorting.md",
-    "basin/Significant Figures.md",
-    "basin/Sigma Notation.md",
-    "basin/SI Prefixes.md",
-    "basin/Series.md",
-    "basin/Scientific Notation.md",
-    "basin/Scanner Class (Java).md",
-    "basin/Right Angle.md",
+    "basin/Precision.md",
+    "basin/Method.md",
+    "basin/Main.md",
+    "basin/Function Arguments.md",
+    "basin/Ordered Pair.md",
+    "basin/Object Construction (CS).md",
+    "basin/Java Class.md",
+    "basin/Parameter (CS).md",
+    "basin/Method Call.md",
+    "basin/Static Method.md",
+    "basin/Constant.md",
+    "basin/Compiler.md",
     "basin/Riemann Sum.md",
+    "basin/Summation.md",
+    "basin/Cartesian Coordinates.md",
+    "basin/Completing the Square.md",
+    "basin/Comment (CS).md",
+    "basin/Coherent Set of Units.md",
+    "basin/Coefficient.md",
+    "basin/Class (OOP).md",
+    "basin/Cartesian Plane.md",
+    "basin/Camel Case.md",
     "basin/Untitled.base",
     "basin/test.base",
     "Current Date",

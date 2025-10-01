@@ -1,6 +1,3 @@
-
----
-
 Print Stream is a [[Java Class|Java class]] located in the package `java.util`.
 
 The syntax for outputting the double myFloat with two digits after the decimal point is   
@@ -13,4 +10,4 @@ The syntax for outputting the double myFloat with two digits after the decimal p
 ```
 
 ---
-
+#computer-science #java

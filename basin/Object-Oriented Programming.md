@@ -1,4 +1,5 @@
-2025-09-10 // 18:14
 
-:: [[Computer Science]]
+
+---
+#computer-science 
 
