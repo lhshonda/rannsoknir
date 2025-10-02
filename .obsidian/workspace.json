@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d8c3643336e97a8",
+        "id": "c01ae3fe6e1ebbce",
         "type": "tabs",
         "children": [
           {
-            "id": "ca73ea10fed923a3",
+            "id": "b4a0b3f09a14a369",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "a0948988d4f44c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basin/Integration Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integration Rules"
+            }
+          },
+          {
+            "id": "878f132448bcbb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basin/Trigonometric Rules for Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trigonometric Rules for Integration"
+            }
+          },
+          {
+            "id": "b4e55a5076bfd820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basin/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "basin/Integration Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Integration Rules"
             }
           },
           {
@@ -157,7 +202,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,8 +224,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca73ea10fed923a3",
+  "active": "a0948988d4f44c6c",
   "lastOpenFiles": [
+    "basin/Trigonometric Rules for Integration.md",
+    "basin/Integration Rules.md",
+    "basin/Power Rule Exception -  x⁻¹.md",
+    "basin/Exponential Rule - eˣ.md",
+    "basin/Constant Multiple Rule.md",
+    "basin/Power Rule.md",
+    "basin/Sum & Difference Rule.md",
+    "basin/Difference of Squares.md",
+    "basin/Summation.md",
+    "basin/Riemann Sum.md",
+    "basin/Precedence Rules.md",
+    "basin/Untitled.md",
+    "basin/Indefinite Integral.md",
+    "basin/Definite Integral.md",
+    "basin/Integral.md",
+    "basin/Limit.md",
+    "basin/Reference Variable (CS).md",
     "basin/Testbench.md",
     "basin/Method.md",
     "basin/Precision.md",
@@ -189,23 +252,6 @@
     "basin/Method Call.md",
     "basin/Riddles.md",
     "blueprint/Date Blueprint.md",
-    "basin/中文.md",
-    "basin/Simplifying.md",
-    "basin/Main.md",
-    "basin/Function Arguments.md",
-    "basin/Ordered Pair.md",
-    "basin/Object Construction (CS).md",
-    "basin/Java Class.md",
-    "basin/Parameter (CS).md",
-    "basin/Static Method.md",
-    "basin/Constant.md",
-    "basin/Compiler.md",
-    "basin/Riemann Sum.md",
-    "basin/Summation.md",
-    "basin/Cartesian Coordinates.md",
-    "basin/Completing the Square.md",
-    "basin/Comment (CS).md",
-    "basin/Coherent Set of Units.md",
     "basin/Untitled.base",
     "basin/test.base",
     "Current Date",
