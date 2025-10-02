@@ -1,14 +1,16 @@
-[[Constant Multiple Rule]] 
+##### Fundamental Formulas for Integration
 
-[[Sum & Difference Rule]]
+1. [[Constant Multiple Rule]] 
 
-[[Power Rule]]
+2. [[Sum & Difference Rule]]
 
-[[Power Rule Exception -  x⁻¹]]
+3. [[Power Rule]]
 
-[[Exponential Rule - eˣ]]
+4. [[Power Rule Exception -  x⁻¹]]
 
-[[Trigonometric Rules for Integration]]
+5. [[Exponential Rule - eˣ]]
+
+6. [[Trigonometric Rules for Integration]]
 
 ---
 #math #calculus 

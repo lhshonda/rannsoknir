@@ -18,49 +18,20 @@
             }
           },
           {
-            "id": "a0948988d4f44c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Integration Rules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integration Rules"
-            }
-          },
-          {
             "id": "878f132448bcbb41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Trigonometric Rules for Integration.md",
+                "file": "basin/Fundamental Theorem of Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trigonometric Rules for Integration"
-            }
-          },
-          {
-            "id": "b4e55a5076bfd820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Fundamental Theorem of Calculus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basin/Integration Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Integration Rules"
+              "title": "Backlinks"
             }
           },
           {
@@ -224,23 +193,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0948988d4f44c6c",
+  "active": "b4a0b3f09a14a369",
   "lastOpenFiles": [
-    "basin/Trigonometric Rules for Integration.md",
+    "basin/Fundamental Theorem of Calculus.md",
     "basin/Integration Rules.md",
+    "basin/Trigonometric Rules for Integration.md",
+    "basin/Summation.md",
+    "basin/Power Rule.md",
+    "basin/Untitled.md",
+    "basin/Indefinite Integral.md",
+    "basin/Constant.md",
+    "basin/U-Substitution.md",
+    "basin/Integral.md",
+    "basin/Pythagorean Identity.md",
+    "basin/Definite Integral.md",
     "basin/Power Rule Exception -  x⁻¹.md",
     "basin/Exponential Rule - eˣ.md",
     "basin/Constant Multiple Rule.md",
-    "basin/Power Rule.md",
     "basin/Sum & Difference Rule.md",
     "basin/Difference of Squares.md",
-    "basin/Summation.md",
     "basin/Riemann Sum.md",
     "basin/Precedence Rules.md",
-    "basin/Untitled.md",
-    "basin/Indefinite Integral.md",
-    "basin/Definite Integral.md",
-    "basin/Integral.md",
     "basin/Limit.md",
     "basin/Reference Variable (CS).md",
     "basin/Testbench.md",
@@ -248,10 +221,6 @@
     "basin/Precision.md",
     "basin/Modular Development.md",
     "basin/Incremental Development.md",
-    "basin/Method Stub.md",
-    "basin/Method Call.md",
-    "basin/Riddles.md",
-    "blueprint/Date Blueprint.md",
     "basin/Untitled.base",
     "basin/test.base",
     "Current Date",
