@@ -1,4 +1,6 @@
-Formally defined as the limit of a [[Riemann Sum|Riemann sum]]. The notation commands: find the exact area under the curve of $f(x)$ from $x=a$ to $x=b$.
+Formally defined as the limit of a [[Riemann Sum|Riemann sum]]. The notation commands: find the exact area under the curve of $f(x)$ from $x=a$ to $x=b$. 
+
+ Make use of the [[Fundamental Theorem of Calculus|fundamental theorem of calculus]] when solving definite [[Integral|integrals]]. Unlike in [[Indefinite Integral|indefinite integrals]], the [[Constant of Integration|constant of integration]], $\large{C}$, cancels out in the solution.
 
 ```tikz
 \begin{document}
@@ -9,7 +11,7 @@ Formally defined as the limit of a [[Riemann Sum|Riemann sum]]. The notation com
 \definecolor{obsidianGreen}{rgb}{0.455,0.639,0.036}
 
 \begin{tikzpicture}[
-  scale=1.5,
+  scale=1.0,
   every node/.style={font=\small},
   axis style/.style={-Stealth, gray!70, thick},
   line style/.style={thick, obsidianPurple},
@@ -19,11 +21,11 @@ Formally defined as the limit of a [[Riemann Sum|Riemann sum]]. The notation com
 
 
 \draw[axis style] (-0.5,0) -- (5.5,0) node[right] {$x$};
-\draw[axis style] (0,-0.5) -- (0,4.5) node[above] {$y$};
+\draw[axis style] (0,-0.5) -- (0,4.2) node[above] {$y$};
 
 
-\draw[line style, domain=0:5] plot (\x, {f(\x)});
-\node[right, text=obsidianPurple!70] at (5, {f(5)}) {$f(x)$};
+\draw[line style, domain=0:4.2] plot (\x, {f(\x)});
+\node[right, text=obsidianPurple!70] at (4.2, {f(4.2)}) {$f(x)$};
 
 
 \def\a{1}

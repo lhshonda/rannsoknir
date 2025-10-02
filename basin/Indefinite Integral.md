@@ -1,4 +1,6 @@
-The directive reverse of a [[Derivative|derivative]], the [[Antiderivative|antiderivative]]. The indefinite integral of a function represents a family of [[Function|functions]] that when [[Derivative|differentiated]], give us the function we had before performing integration. In order to account for the different possibilities the [[Constant of Integration|constant of integration]], $C$, represents any possible [[Constant|constant]]. 
+The directive reverse of a [[Derivative|derivative]], the [[Antiderivative|antiderivative]]. The indefinite integral of a function represents a family of [[Function|functions]] that when [[Derivative|differentiated]], give us the function we had before performing integration. 
+
+In order to account for the different possibilities the [[Constant of Integration|constant of integration]], $C$, is used and represents all possible [[Constant|constants]]. 
 
 Keep the [[Integration Rules|integration rules]] in mind when solving indefinite integrals.
 
