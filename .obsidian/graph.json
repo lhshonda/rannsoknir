@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#computer",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 14.6135292589706,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.5774206799762464,
+  "scale": 0.43880388746069476,
   "close": true
 }

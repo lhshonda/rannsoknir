@@ -3,7 +3,7 @@ An integral is the [[Infinity|infinity]] approaching [[Limit|limit]] of a [[Func
 ---
 #####  Common Pitfalls
 
-1. The integral calculates net signed [[Area|area]]. That is, any area below the x-axis counts as negative. 
+1. The integral calculates net [[Signed (Math)|signed]] [[Area|area]]. That is, any area below the x-axis counts as negative. 
 
 2. A [[Definite Integral|definite integral]] is a number representing an area in a given [[Interval|interval]], while an [[Indefinite Integral|indefinite integral]] is a function known as the [[Antiderivative|antiderivative]].
 

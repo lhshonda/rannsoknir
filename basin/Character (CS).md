@@ -1,0 +1,1 @@
+An encoded representation of natural language. A sequence of characters is called a [[String (CS)|string]].

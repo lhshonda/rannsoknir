@@ -1,4 +1,4 @@
-This fundamental concept in kinematics is considered a [[Vector Quantity|vector quantity]]. Velocity's scalar. also know as its [[Magnitude|magnitude]], is [[Speed|speed]].
+This fundamental concept in kinematics is considered a [[Vector Quantity|vector quantity]]. Velocity's scalar. also know as its [[Magnitude (Physics)|magnitude]], is [[Speed|speed]].
 
 ###### Average Velocity
 

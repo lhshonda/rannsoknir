@@ -57,7 +57,7 @@ $$
 
 ##### Instantaneous Speed v. Instantaneous Velocity
 
-Instantaneous speed, $s$, is the same as the [[Magnitude|magnitude]] of instantaneous velocity, thus:
+Instantaneous speed, $s$, is the same as the [[Magnitude (Physics)|magnitude]] of instantaneous velocity, thus:
 $$
 s= |v|
 $$

@@ -1,4 +1,4 @@
-A `String` in Java is an object that holds text and some extra details such as its length. You do not need to know how it works internally. You only need to know the public methods that let you use it.
+ The instances of this class, i.e. [[Objects (CS)|objects]], hold text and extra details such as length. The internal structure of the class is not relevant to the programmer, rather, the point of interest lies within the 
 
 ```java
 public class StringExample {

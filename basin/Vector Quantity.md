@@ -1,4 +1,4 @@
-Such quantities required both [[magnitude]] and direction in order to be properly defined.
+Such quantities required both [[Magnitude (Physics)]] and direction in order to be properly defined.
 
 ---
 #physics 
