@@ -1,4 +1,4 @@
-An integral is the [[Infinity|infinity]] approaching [[Limit|limit]] of a [[Function|function's]] sum: it's the exact area under a curve. 
+An integral is the [[Infinity|infinity]] approaching [[Limit|limit]] of a [[Function (Math)|function's]] sum: it's the exact area under a curve. 
 
 ---
 #####  Common Pitfalls

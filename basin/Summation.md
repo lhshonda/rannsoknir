@@ -1,10 +1,9 @@
 The addition of a [[Sequence|sequence]] of numbers. The result is the sum/total. Summations of [[Infinite|infinite]] sequences are called [[Series|series]]. 
 
 ---
+##### Summation Formulas
 
->Shortcuts in summation
-
-These formulas save us from tedious amounts of additions through proven mathematical facts.
+These formulas save us from large amounts of additions through proven mathematical facts.
 
 $$
 \begin{gather} 

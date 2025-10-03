@@ -2,7 +2,7 @@ A written arrangement of [[Symbols|symbols]]. Symbols may denote numbers, variab
 
 [[Formula|Formulas]] and expressions are commonly distinguished from one another. Expressions denote [[Mathematical Objects|mathematical objects]], and formulas are statements about said mathematical objects.
 
-Expressions are commonly used to define [[Function|functions]].
+Expressions are commonly used to define [[Function (Math)|functions]].
 
 ---
 #math 

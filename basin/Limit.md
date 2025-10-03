@@ -8,7 +8,7 @@ $$
 \end{gather}
 $$
 
-> When taking the limit of expressions, by definition, we implicitly treat said expression as a defined function of an argument. It's done so for the sake and context of the limit process itself, not as an assertion of an equation, or a full invocation of all properties of [[Function|functions]].
+> When taking the limit of expressions, by definition, we implicitly treat said expression as a defined function of an argument. It's done so for the sake and context of the limit process itself, not as an assertion of an equation, or a full invocation of all properties of [[Function (Math)|functions]].
 
 --- 
 
