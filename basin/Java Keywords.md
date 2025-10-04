@@ -1,4 +1,4 @@
-Special reserved words with predefined meanings in the [[Java]] language. They cannot be used as [[Identifier|identifiers]]. These keywords form the foundation of Java's syntax.
+Special reserved words with predefined meanings in the [[Java]] language. They cannot be used as [[Identifier (CS)|identifiers]]. These keywords form the foundation of Java's syntax.
 
 <div align="center">
 <table border="1" cellspacing="0" cellpadding="6" align="center">

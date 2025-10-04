@@ -1,4 +1,9 @@
-An expression is any individual item or combination of items, like variables, literals, operators, and parentheses, that evaluates to a value, like 2 * (x + 1).
+An expression is any individual item or combination of items that evaluate into a value.
+
+Such items include [[Variable (CS)|variables]], [[Literal (CS)|literals]], [[Operator (CS)|operators]], and parentheses.
+
+
+
 
 ---
 #computer-science 

@@ -1,0 +1,1 @@
+A value or variable on which an [[Operator (CS)|operator]] acts within an [[Expression (CS)|expression]].

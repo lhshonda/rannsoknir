@@ -1,0 +1,1 @@
+An [[Operator (CS)|operator]] used to evaluate the remainder of the division of two [[Integer (CS)|integer]] [[Operand|operands]].

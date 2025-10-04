@@ -1,4 +1,4 @@
-Whitespaces are the blank spaces between characters and blank lines between statements. Whitespaces are almost always ignored by [[Compiler|compilers]].
+Whitespaces are the blank spaces between characters and blank lines between statements. Whitespaces are almost always ignored by [[Compiler (CS)|compilers]].
 
 The` `code-block` `between` `the` `words` `represent` `whitespaces.
 

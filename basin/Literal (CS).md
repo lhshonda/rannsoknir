@@ -1,9 +1,7 @@
-A literal is a specific value in code like 2.
+A literal is a fixed value written in code. They are constant and do not change some types of [[Variable (CS)|variables]]. Though this makes a literal sound to be a [[Constant Variable (CS)|constant variable]], they are in fact not variables. Literals are stored in variables, they're not variables themselves. 
+
+<p align="center">Literals ≠ Variables</p>
 
 ---
-##### Java
 
-An int variable can typically only hold values up to about 2 billion; trying to store larger values results in "overflow".
-
----
-#computer-science #java
+#computer-science 

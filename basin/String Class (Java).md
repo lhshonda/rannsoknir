@@ -1,4 +1,4 @@
- The instances of this class, i.e. [[Objects (CS)|objects]], hold text and extra details such as length. The internal structure of the class is not relevant to the programmer, rather, the point of interest lies within the 
+ The instances of this class, i.e. [[Object (CS)|objects]], hold text and extra details such as length. The internal structure of the class is not relevant to the programmer, rather, the point of interest lies within the 
 
 ```java
 public class StringExample {

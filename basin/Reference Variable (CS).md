@@ -1,4 +1,4 @@
-A **reference variable** can refer to an instance of a class.
+A variable in code that holds a reference to an [[Object (CS)|object]]. This reference allows programers to access and manipulate a specific object. 
 
 ---
 #computer-science #java

@@ -1,4 +1,4 @@
-Within the [[Positional Numeral System]], the radix is number of unique digits used to represent numbers.  The count includes zero.
+Within the [[Positional Numeral System|positional numeral system]], the base, or radix, is number of unique digits used to represent numbers.  The count includes zero.
 
 The [[Binary Numbers|binary number system]] is of type base-2.
 

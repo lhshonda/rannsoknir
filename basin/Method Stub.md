@@ -1,4 +1,4 @@
-A [[Method Definition|method definition]] whose statements have not yet been written. The `return` is set to zero as a generic stub placeholder.
+A [[Method Definition (CS)|method definition]] whose statements have not yet been written. [[Return (CS)|Return]] is set to zero as a generic stub placeholder.
 
 ```java
 public class Calculator {

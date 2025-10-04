@@ -4,91 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "c01ae3fe6e1ebbce",
+        "id": "69f06962e929d17e",
         "type": "tabs",
         "children": [
           {
-            "id": "16d422a9a207819d",
+            "id": "3f2c03d335c66a76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Public Method.md",
+                "file": "basin/Implicit Parameter (CS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public Method"
+              "title": "Implicit Parameter (CS)"
             }
           },
           {
-            "id": "688c7dbd85df89d5",
+            "id": "1504268f772f0f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Array (CS).md",
+                "file": "basin/Method Definition (CS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array (CS)"
+              "title": "Method Definition (CS)"
             }
           },
           {
-            "id": "78f0ac471cd45d77",
+            "id": "08b70d579de525c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basin/Boolean (CS).md",
+                "file": "basin/Full Signature (CS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boolean (CS)"
-            }
-          },
-          {
-            "id": "f941edfb516d31a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Tuple (CS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tuple (CS)"
-            }
-          },
-          {
-            "id": "696ebfa9370cc90d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basin/Record or Struct (CS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Record or Struct (CS)"
-            }
-          },
-          {
-            "id": "c018e4f4e6b71cfd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Full Signature (CS)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math",
+                "query": "tag:#java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "basin/Implicit Parameter (CS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Implicit Parameter (CS)"
             }
           },
           {
@@ -180,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basin/Cartesian Plane.md",
+                "file": "basin/Implicit Parameter (CS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cartesian Plane"
+              "title": "Outgoing links from Implicit Parameter (CS)"
             }
           },
           {
@@ -249,35 +211,35 @@
       "phrasesync:Reload PhraseSync": false
     }
   },
-  "active": "c018e4f4e6b71cfd",
+  "active": "3f2c03d335c66a76",
   "lastOpenFiles": [
-    "basin/String Class (Java).md",
-    "basin/Public Method.md",
-    "basin/Character (CS).md",
-    "basin/String (CS).md",
+    "basin/Method Call (CS).md",
+    "basin/Argument (CS).md",
+    "basin/Method Definition (CS).md",
+    "basin/Parameter (CS).md",
+    "basin/Comment (CS).md",
+    "basin/Compiler.md",
+    "basin/Full Signature (CS).md",
+    "basin/Function (CS).md",
+    "basin/Method (CS).md",
+    "basin/Execution (CS).md",
+    "basin/Statement (CS).md",
+    "basin/this (CS).md",
+    "basin/objectReference (CS).md",
+    "basin/Implicit Parameter (CS).md",
     "basin/Constant Variable (CS).md",
-    "basin/Mutable.md",
-    "basin/Array (CS).md",
-    "basin/Boolean (CS).md",
-    "basin/Tuple (CS).md",
-    "basin/Record or Struct (CS).md",
-    "basin/Composite Data Type.md",
-    "basin/Integer Rounding (CS).md",
-    "basin/Primitive Data Type.md",
-    "basin/Compound Operators.md",
-    "basin/Data Type (CS).md",
-    "basin/Operator (CS).md",
-    "basin/Signed (Math).md",
-    "basin/Integer (Math).md",
-    "basin/Integral.md",
-    "basin/Special Data Type.md",
-    "basin/Abstract or Reference Data Type.md",
+    "basin/Object Construction (CS).md",
+    "basin/Constructor (CS).md",
+    "basin/Object (CS).md",
+    "basin/Compiler (CS).md",
+    "basin/Identifier (CS).md",
+    "basin/Reference Variable (CS).md",
+    "basin/Method Stub.md",
+    "basin/Return (CS).md",
+    "basin/Variable (CS).md",
+    "basin/Literal (CS).md",
+    "basin/Reserved Word.md",
     "Abstract",
-    "basin/Signed (CS).md",
-    "basin/Integer (CS).md",
-    "basin/Interval.md",
-    "basin/Integer.md",
-    "basin/Real Number.md",
     "basin/Untitled.base",
     "basin/test.base",
     "Current Date",

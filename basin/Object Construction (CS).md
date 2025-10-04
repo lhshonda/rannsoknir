@@ -1,28 +1,16 @@
-Creating an object and assigning a variable with that object involves three parts: 
-
-```java
-Histogram passFailHistogram = new Histogram();
-```
-
-> **Variable declaration**: A reference is a variable type that refers to an object. A reference may be thought of as storing the memory address of an object. 
-
-```java
-Histogram passFailHistogram
-```
+From a [[Compiler (CS)|compiler's]] perspective, object construction first allocates the memory for the [[Object (CS)|object]]. From there is [[Constructor (CS)|constructor]] is automatically called and the [[Reference Variable (CS)|reference]] to the object is created.
 
 
->  **Memory allocation**: The `new` operator creates an object by allocating memory for the object and initializing the object by calling a constructor.
-
-```java
-new
-```
 
 
-> **Calling the constructor**: A constructor is a special method for an object that is called whenever a new object is created, and is used to initialize the object's internal data. A class may define more than one constructor. The `Histogram()` part of the statement indicates which constructor should be called.
 
-```java
-Histogram();
-```
+<h5 align="center">Three Conceptual Steps in Object Construction</h5>
+
+1. A [[Variable (CS)|variable]] serves as a [[Reference Variable (CS)|named reference]] to the [[Object (CS)|object]] in memory.
+</br>
+2. Memory is allocated for the object before use. Some languages handle this part automatically, while others require you to be explicit, and use [[Reserved Word|reserved words]].
+</br>
+3. A [[Constructor (CS)|constructor]] sets up the object's initial state. Many [[Programming Languages|programming languages]] provide multiple ways to initialize an object.
 
 ---
-#computer-science #java
+#computer-science

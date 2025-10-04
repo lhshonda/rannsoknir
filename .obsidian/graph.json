@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "#computer-science",
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 14.6135292589706,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.43880388746069476,
+  "scale": 0.32035696380812306,
   "close": true
 }

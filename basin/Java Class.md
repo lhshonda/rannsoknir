@@ -1,6 +1,6 @@
-A class in Java is a blueprint that defines what data an object can hold and what actions it can perform. You do not need to know how the computer stores the object in memory. You only need to know how to create objects from the class and use the public methods or variables it provides.
+[[Class (OOP)|Classes]] in Java are blueprints defining the [[Data Type (CS)|data]] their instances, [[Object (CS)|objects]] can hold and what actions they may perform.
 
->A **class construct** is the code structure in Java that lets you define a class. It tells the compiler what data and methods belong to that class. 
+A **class construct** is the code structure in Java that lets you define a class. It tells the [[Compiler (CS)|compiler]] what [[Data Type (CS)|data]] and [[Method (CS)|methods]] belong to that class. 
 
 ```java
 // A class is a blueprint

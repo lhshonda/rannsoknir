@@ -1,4 +1,4 @@
-A tree-like data structure representing [[Source Code|source code]] in a hierarchical structure. [[Compiler|Compilers]] and [[Interpreter (CS)|interpreters]] utilize ASTs to analyze, optimize, and generate code. 
+A tree-like data structure representing [[Source Code|source code]] in a hierarchical structure. [[Compiler (CS)|Compilers]] and [[Interpreter (CS)|interpreters]] utilize ASTs to analyze, optimize, and generate code. 
 
 ```tikz
 \begin{document}
